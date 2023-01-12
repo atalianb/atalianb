@@ -1,5 +1,5 @@
-### Hi 👋, I'm Atalia Navarro Boullosa
-## Future Physics PhD, passionate about sharing knowledge and creating community, mainly among STEM women. I like to analyze data with different tools and solve problems.
+## Hi 👋, I'm Atalia Navarro Boullosa
+### Future Physics PhD, passionate about sharing knowledge and creating community, mainly among STEM women. I like to analyze data with different tools and solve problems.
 
 - 🔭 I’m currently working on analice data from galaxies to infer the free parameters in a DM model with Bayesian statistics.
 - 🌱 I’m currently learning more about machine learning
